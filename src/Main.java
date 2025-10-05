@@ -655,5 +655,3 @@ enum TypeFuel {
 
 
 
-
-
